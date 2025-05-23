@@ -24,7 +24,7 @@ Sigue estos pasos para instalar el proyecto:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/parchate.git
+git clone https://github.com/juancol2326/parchate.git
 
 # Entrar al directorio
 cd parchate
